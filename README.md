@@ -72,6 +72,9 @@ the head (classifier) without overfitting the training set. Otherwise, the
 validation loss increased quickly if further fine-tuning of the entire network
 continued in subsequent epochs.
 
+![Capture d'écran 2024-04-05 184703](https://github.com/AxelCole/Word-Sentiment-Analysis/assets/74537478/532fbd09-3062-4980-a84c-9d711f3b1673)
+
+
 3 Conclusion
 
 Our main model does not utilize LoRA because our primary focus is achieving
