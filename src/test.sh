@@ -8,7 +8,7 @@
 #SBATCH --gres=gpu:1                    # Number of GPUs
 #SBATCH --mem=14G                       # Memory per node
 #SBATCH --partition=gpu                 # Partition
-#SBATCH --cpus-per-task=1               # Number of CPU cores&
+#SBATCH --cpus-per-task=1               # Number of CPU cores
 
 
 module load anaconda3/2022.10/gcc-11.2.0
